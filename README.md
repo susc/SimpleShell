@@ -27,3 +27,7 @@ You can now execute basic command-line operations in the Shell! Type help and pr
 ## Contributions
 
 If you'd like to contribute to the project, submit your pull request on GitHub. Your participation is highly appreciated!
+
+## License
+
+The project is open-sourced under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html).
