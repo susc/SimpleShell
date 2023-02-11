@@ -22,7 +22,7 @@ Then, you can run the generated executable file:
 ./main
 ```
 
-You can now execute basic command-line operations in the Shell! Type help and press enter to output the help information for this Shell, and type exit and press enter to exit the program.
+You can now execute basic command-line operations in the Shell! Type `help` and press enter to output the help information for this Shell, and type `exit` and press enter to exit the program.
 
 ## Contributions
 
